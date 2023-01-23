@@ -1,0 +1,12 @@
+External DB:
+-------------------------
+
+    'default': {
+        'ENGINE': 'django.db.backends.oracle',
+        'NAME': 'ORCL',
+        'USER': 'anonymous',
+        'PASSWORD': 'exit',
+        'PORT':'1521',
+        'HOST':'localhost',
+
+    }

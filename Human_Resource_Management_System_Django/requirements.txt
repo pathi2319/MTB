@@ -1,0 +1,7 @@
+Django==2.2.13
+mysqlclient
+Pillow
+psycopg2
+pytz
+sqlparse
+cx_Oracle
